@@ -1,0 +1,3 @@
+# Exemplo de arquivo em outra pasta
+
+Aqui podemos observar...
